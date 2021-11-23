@@ -1,0 +1,74 @@
+/* section {
+  
+} */
+#nani {
+  background: #ef32d9; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #89fffd,
+    #ef32d9
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #89fffd,
+    #ef32d9
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.sai:hover {
+  color: white;
+  background-color: #94f3f3;
+  border-top: 5px solid #ee6b95;
+}
+nav::after {
+  background-image: url("lib-1.jpg");
+}
+/* section {
+  display: flex;
+} */
+.top-left {
+  position: absolute;
+  top: 170px;
+  left: 200px;
+  background: linear-gradient(
+    to right,
+    #b29f94,
+    #603813
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+footer {
+  background: #feac5e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #4bc0c8,
+    #c779d0,
+    #feac5e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #4bc0c8,
+    #c779d0,
+    #feac5e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  text-align: center;
+}
+section {
+  margin-bottom: 25px;
+}
+h2 {
+  color: floralwhite;
+  padding-top: 5%;
+}
+.harshi2 {
+  display: flex;
+  background-color: #fafafa;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.nazriya {
+  margin-top: 7%;
+  margin-left: 10%;
+}
